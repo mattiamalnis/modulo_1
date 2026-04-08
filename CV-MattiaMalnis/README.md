@@ -7,4 +7,4 @@ Mi CV en PDF:
 (https://github.com/mattiamalnis/modulo_1/blob/main/CV-MattiaMalnis/MattiaMalnisCV.pdf)
 
 
-Archivo zip. con todo el proyecto en LaTeX: (https://github.com/anagodoyy85/modulo_1/blob/main/CV_AnaGodoy_Overleaf.zip)
+Archivo zip. con todo el proyecto en LaTeX: (https://github.com/mattiamalnis/modulo_1/blob/main/CV-MattiaMalnis/MattiaMalnisCV.zip)
